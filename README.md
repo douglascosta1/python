@@ -1,2 +1,2 @@
-# python
+# exercício
 primeiro repositório do curso
